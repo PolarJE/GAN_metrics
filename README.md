@@ -26,8 +26,8 @@ path
 PSNR : Peak Signal-to-Noise Ratio
 ----
 Peak signal-to-noise ratio, often abbreviated PSNR, is an engineering term for the ratio between the maximum possible power of a signal and the power of corrupting noise that affects the fidelity of its representation. <br>
-![Alt text](/img/PNSR.PNG)<br>
-![Alt text](/img/PNSR2.PNG)
+<img src="/img/PSNR.PNG"></img><br/>
+<img src="/img/PSNR2.png"></img>
 
 SSIM : Structural similarity
 ----
